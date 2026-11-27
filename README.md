@@ -15,3 +15,14 @@ CCTV Feed
 → Incident Management
 → MongoDB
 → Dashboard
+
+## Repository layout
+
+| Folder | |
+|---|---|
+| `backend/` | Node.js + Express + MongoDB API |
+| `frontend/` | React public portal and admin console. See [frontend/README.md](frontend/README.md) |
+
+The frontend runs in demo mode on sample data until the backend endpoints it
+needs are available. [frontend/docs/API_CONTRACT.md](frontend/docs/API_CONTRACT.md)
+lists them.
