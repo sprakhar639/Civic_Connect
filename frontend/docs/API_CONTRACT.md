@@ -1,7 +1,8 @@
 # CivicConnect frontend ↔ backend API contract
 
-Written against the backend in this repo (`backend/`) as of the frontend's first
-commit. The frontend runs on an in-browser mock layer (`src/services/mock/`)
+Written against the backend in
+[sprakhar639/Civic_Connect](https://github.com/sprakhar639/Civic_Connect) (`backend/`)
+as of the frontend's first commit. The frontend runs on an in-browser mock layer (`src/services/mock/`)
 until these endpoints exist.
 
 All backend ↔ UI field mapping lives in **`src/services/adapters.js`**. If a
